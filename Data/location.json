@@ -1,0 +1,102 @@
+[
+    {
+        "Kota" : "Jakarta",
+        "Georeferenced" : "POINT (106.84634081531794 -6.196639809431919)"
+    },
+    {
+        "Kota" : "Bandung",
+        "Georeferenced" : "POINT (107.608800 -6.899350)"
+    },
+    {
+        "Kota" : "Surabaya",
+        "Georeferenced" : "POINT (112.740515 -7.244582)"
+    },
+    {
+        "Kota" : "Malang",
+        "Georeferenced" : "POINT (112.65 -7.98)"
+    },
+    {
+        "Kota" : "Tangerang",
+        "Georeferenced" : "POINT (106.65 -6.15)"
+    },
+    {
+        "Kota" : "Depok",
+        "Georeferenced" : "POINT (106.85 -6.25)"
+    },
+    {
+        "Kota" : "Bekasi",
+        "Georeferenced" : "POINT (106.95 -6.2)"
+    },
+    {
+        "Kota" : "Cimahi",
+        "Georeferenced" : "POINT (108.3 -6.9)"
+    },
+    {
+        "Kota" : "Cikarang",
+        "Georeferenced" : "POINT (106.95 -6.15)"
+    },
+    {
+        "Kota" : "Pontianak",
+        "Georeferenced" : "POINT (109.55 -0.05)"
+    },
+    {
+        "Kota" : "Pekanbaru",
+        "Georeferenced" : "POINT (101.45 -0.5)"
+    },
+    {
+        "Kota" : "Batam",
+        "Georeferenced" : "POINT (104.05 1.15)"
+    },
+    {
+        "Kota" : "Bandar Lampung",
+        "Georeferenced" : "POINT (105.25 -5.05)"
+    },
+    {
+        "Kota" : "Samarinda",
+        "Georeferenced" : "POINT (117.05 -0.75)"
+    },
+    {
+        "Kota" : "Batang",
+        "Georeferenced" : "POINT (109.73091568863286 -6.9064986322177955)"
+    },
+    {
+        "Kota" : "Denpasar",
+        "Georeferenced" : "POINT (115.21671667855678 -8.671656304136919)"
+    },
+    {
+        "Kota" : "Yogyakarta",
+        "Georeferenced" : "POINT (110.36450235280027 -7.800954474217425)"
+    },
+    {
+        "Kota" : "Bali",
+        "Georeferenced" : "POINT (115.2079136078647 -8.382627730607549)"
+    },
+    {
+        "Kota" : "Kendal",
+        "Georeferenced" : "POINT (110.20109858256806 -6.932334274943742)"
+    },
+    {
+        "Kota" : "Muarajawa",
+        "Georeferenced" : "POINT (117.25127801657455 -0.8262358101933909)"
+    },
+    {
+        "Kota" : "Medan",
+        "Georeferenced" : "POINT (98.68321206097782 3.5929316017216393)"
+    },
+    {
+        "Kota" : "Kuta",
+        "Georeferenced" : "POINT (115.17513702529435 -8.724964339525016)"
+    },
+    {
+        "Kota" : "Ubud",
+        "Georeferenced" : "POINT (115.2625201762181 -8.50663667391263)"
+    },
+    {
+        "Kota" : "Indonesia",
+        "Georeferenced" : "POINT (117.343188 -0.878596)"
+    },
+    {
+        "Kota" : "Jawa Timur",
+        "Georeferenced" : "POINT (113.807338 -7.828644)"
+    }
+]
