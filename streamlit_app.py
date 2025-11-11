@@ -119,14 +119,15 @@ if st.session_state.search_clicked:
 
         # Tampilkan tabel hasil lowongan yang direkomendasikan
         display_df = st.session_state.top_results[[
-            "Job Title", "Kota", "Work Hours", "Type", "Job Qualifications", "URL"
+            "Company Name", "Job Title", "Kota", "Work Hours", "Type", "Job Qualifications", "URL"
         ]].rename(columns={
+            "Company Name": "Nama Perusahaan",
             "Job Title": "Posisi",
             "Kota": "Kota",
-            "Work Hours": "Jam Kerja",
             "Type": "Tipe",
+            "Work Hours": "Jam Kerja",
             "Job Qualifications": "Kualifikasi",
-            "URL": "Link"
+            "URL": "Link Access"
         }).reset_index(drop=True)
 
         st.dataframe(display_df, use_container_width=True)
